@@ -1,0 +1,16 @@
+int test(int y){
+    return y;
+}
+
+int main(){
+
+    int x;
+    intt z;
+    ###
+    "int Hello World";
+
+    x = test(10);
+    write(x);
+    return;;
+
+}}
